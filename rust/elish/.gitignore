@@ -1,0 +1,9 @@
+# Cargo
+target/
+Cargo.lock
+
+# CLion
+.idea/
+
+# Visual Studio Code
+.settings

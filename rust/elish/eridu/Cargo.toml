@@ -1,0 +1,8 @@
+[package]
+name = "eridu"
+version = "1.0.0"
+authors = ["xeno"]
+edition = "2018"
+
+[dependencies]
+futures-lite = "1.11"

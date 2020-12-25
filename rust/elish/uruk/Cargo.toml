@@ -1,0 +1,12 @@
+[package]
+name = "uruk"
+version = "1.0.0"
+authors = ["xeno"]
+edition = "2018"
+
+[dependencies]
+eridu = { path = "../eridu" }
+async-listen = "0.2"
+async-std = "1.9"
+futures = "0.3"
+log = "0.4"
