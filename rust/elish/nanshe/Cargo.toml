@@ -1,0 +1,8 @@
+[package]
+name = "nanshe"
+version = "1.0.0"
+authors = ["xeno"]
+edition = "2018"
+
+[dependencies]
+num-traits = "0.2"

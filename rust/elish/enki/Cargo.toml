@@ -1,0 +1,11 @@
+[package]
+name = "enki"
+version = "1.0.0"
+authors = ["xeno"]
+edition = "2018"
+
+[dependencies]
+nanshe = { path = "../nanshe" }
+ndarray = "0.14"
+num-bigint = "0.3"
+num-traits = "0.2"
